@@ -32,3 +32,7 @@
 [[constraint]]
   branch = "master"
   name = "github.com/stellar/go"
+
+[[constraint]]
+  name = "github.com/jinzhu/configor"
+  version = "1.0.0"
